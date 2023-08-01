@@ -1,0 +1,12 @@
+module.exports=[
+    {
+        uid:1,
+        name:'wangs',
+        auth:[2,3,7]
+    },
+    {
+        uid:2,
+        name:'admin',
+        auth:[2,3,4,5,6,7]
+    }
+]
